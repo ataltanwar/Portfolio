@@ -37,7 +37,9 @@ It highlights my technical stack, selected projects, and ways to connect with me
 ```
 portfolio-website/
 ├── README.md   
-├── index.html         
+├── index.html
+├── style.css
+├── script.js             
 └── mouse-cursor.png 
 ```
 
