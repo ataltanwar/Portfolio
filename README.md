@@ -5,6 +5,10 @@ It highlights my technical stack, selected projects, and ways to connect with me
 
 ---
 
+<img width="1874" height="853" alt="image" src="https://github.com/user-attachments/assets/83e52c2d-2391-4427-9fae-412b73fbfe12" />
+
+---
+
 ## Features
 
 * Responsive and modern UI
