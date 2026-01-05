@@ -65,11 +65,12 @@
         window.addEventListener('scroll', () => {
             const currentScroll = window.pageYOffset;
             
-            if (currentScroll > lastScroll && currentScroll > 100) {
+            if (currentScroll > lastScroll && currentScroll > 10) {
                 header.style.transform = 'translateY(-100%)';
             } else {
                 header.style.transform = 'translateY(0)';
             }
             
             lastScroll = currentScroll;
+
         });
