@@ -35,11 +35,10 @@ It highlights my technical stack, selected projects, and ways to connect with me
 ## 📁 Project Structure
 
 ```
-/src
-  /index3.html
-  /icon.png
-/public
-README.md
+portfolio-website/
+├── README.md   
+├── index.html         
+└── mouse-cursor.png 
 ```
 
 ---
