@@ -73,7 +73,7 @@ http://localhost:3000
 
 ## 🌍 Live Demo
 
-👉 https://atalportfolio.vercel.app
+👉 https://ataltanwar.vercel.app
 
 ---
 
