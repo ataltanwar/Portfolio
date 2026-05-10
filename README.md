@@ -36,7 +36,7 @@ It highlights my technical stack, selected projects, and ways to connect with me
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 portfolio-website/
@@ -51,19 +51,19 @@ portfolio-website/
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 
 ```bash
 git clone https://github.com/ataltanwar/portfolio.git
 ```
 
-### 2️⃣ Install dependencies
+### 2️ Install dependencies
 
 ```bash
 npm install
 ```
 
-### 3️⃣ Run the project
+### 3️ Run the project
 
 ```bash
 npm run dev
@@ -77,13 +77,13 @@ http://localhost:3000
 
 ---
 
-## 🌍 Live Demo
+##  Live Demo
 
-👉 https://ataltanwar.vercel.app
+ https://ataltanwar.vercel.app
 
 ---
 
-## 📌 Purpose
+##  Purpose
 
 This project was created to:
 
@@ -93,7 +93,7 @@ This project was created to:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 * GitHub: [https://github.com/ataltanwar](https://github.com/ataltanwar)
 * LinkedIn: [https://linkedin.com/in/ataltanwar](https://linkedin.com/in/ataltanwar)
@@ -101,6 +101,6 @@ This project was created to:
 
 ---
 
-## 📝 License
+##  License
 
 This project is open-source and available for learning and personal use.
