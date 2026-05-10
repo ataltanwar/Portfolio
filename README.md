@@ -49,7 +49,7 @@ portfolio-website/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1️ Clone the repository
 
