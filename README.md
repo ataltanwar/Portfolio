@@ -43,7 +43,8 @@ portfolio-website/
 ├── README.md   
 ├── index.html
 ├── style.css
-├── script.js             
+├── script.js
+├── favicon.ico           
 └── mouse-cursor.png 
 ```
 
